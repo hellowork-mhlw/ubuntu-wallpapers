@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 17.04 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/zesty.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <name>A star has fallen</name>
+     <name xml:lang="bs">Zvijezda je pala</name>
+     <name xml:lang="cs">Padající hvězda</name>
+     <name xml:lang="de">Ein Stern ist gefallen</name>
+     <name xml:lang="en_GB">A star has fallen</name>
+     <name xml:lang="es">Ha caído una estrella</name>
+     <name xml:lang="fi">Tähti on laskeutunut</name>
+     <name xml:lang="fr">Une étoile est tombée</name>
+     <name xml:lang="gl">Caeu unha estrela</name>
+     <name xml:lang="he">כוכב נופל</name>
+     <name xml:lang="hr">Morska zvjezda</name>
+     <name xml:lang="ru">Упавшая звезда</name>
+     <name xml:lang="sv">En stjärna har fallit</name>
+     <name xml:lang="uk">Зірка впала</name>
+     <filename>/usr/share/backgrounds/A_star_has_fallen_by_Juan_Pablo_Lauriente.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Candy</name>
+     <name xml:lang="bs">Slatkiši</name>
+     <name xml:lang="cs">Cukroví</name>
+     <name xml:lang="de">Süßigkeiten</name>
+     <name xml:lang="en_GB">Candy</name>
+     <name xml:lang="es">Caramelo</name>
+     <name xml:lang="fi">Makeisia</name>
+     <name xml:lang="gl">Lamberetada</name>
+     <name xml:lang="he">ממתק</name>
+     <name xml:lang="hr">Slatkiši</name>
+     <name xml:lang="ru">Конфеты</name>
+     <name xml:lang="sv">Godis</name>
+     <name xml:lang="uk">Цукерка</name>
+     <filename>/usr/share/backgrounds/Candy_by_Bernhard_Hanakam.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Espaciolandia</name>
+     <name xml:lang="bs">Espaciolandia</name>
+     <name xml:lang="de">Espaciolandia</name>
+     <name xml:lang="en_GB">Espaciolandia</name>
+     <name xml:lang="es">Espaciolandia</name>
+     <name xml:lang="gl">Espazolandia</name>
+     <name xml:lang="he">מרחבים</name>
+     <name xml:lang="hr">Vrtuljak</name>
+     <name xml:lang="sv">Espaciolandia</name>
+     <name xml:lang="uk">Espaciolandia</name>
+     <filename>/usr/share/backgrounds/Espaciolandia_by_Nando_uy.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Forest</name>
+     <name xml:lang="bs">Šuma</name>
+     <name xml:lang="cs">Les</name>
+     <name xml:lang="de">Wald</name>
+     <name xml:lang="en_GB">Forest</name>
+     <name xml:lang="es">Bosque</name>
+     <name xml:lang="fi">Metsä</name>
+     <name xml:lang="fr">Forêt</name>
+     <name xml:lang="gl">Bosque</name>
+     <name xml:lang="he">יער</name>
+     <name xml:lang="hr">Šuma</name>
+     <name xml:lang="ru">Лес</name>
+     <name xml:lang="sv">Skog</name>
+     <name xml:lang="uk">Ліс</name>
+     <filename>/usr/share/backgrounds/Forest_by_Moritz_Reisinger.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Mushrooms 3</name>
+     <name xml:lang="bs">Gljive 3</name>
+     <name xml:lang="cs">Houby 3</name>
+     <name xml:lang="de">Pilze 3</name>
+     <name xml:lang="en_GB">Mushrooms 3</name>
+     <name xml:lang="es">Setas 3</name>
+     <name xml:lang="fi">Sienet 3</name>
+     <name xml:lang="fr">Mushrooms 3</name>
+     <name xml:lang="gl">Fungos 3</name>
+     <name xml:lang="he">פטריות 3</name>
+     <name xml:lang="hr">Gljive 3</name>
+     <name xml:lang="ru">Грибы 3</name>
+     <name xml:lang="sv">Svampar 3</name>
+     <name xml:lang="uk">Гриби 3</name>
+     <filename>/usr/share/backgrounds/Mushrooms_3_by_moritzmhmk.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Passion</name>
+     <name xml:lang="bs">Strast</name>
+     <name xml:lang="de">Leidenschaft</name>
+     <name xml:lang="en_GB">Passion</name>
+     <name xml:lang="es">Pasión</name>
+     <name xml:lang="fi">Intohimo</name>
+     <name xml:lang="fr">Passion</name>
+     <name xml:lang="gl">Pasión</name>
+     <name xml:lang="he">תשוקה</name>
+     <name xml:lang="hr">Strast</name>
+     <name xml:lang="ru">Страсть</name>
+     <name xml:lang="sv">Passion</name>
+     <name xml:lang="uk">Пристрасть</name>
+     <filename>/usr/share/backgrounds/Passion_by_Vilia_Majere.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Pink and Blue</name>
+     <name xml:lang="bs">Rozo i Plavo</name>
+     <name xml:lang="cs">Růžová a modrá</name>
+     <name xml:lang="de">Pink und Blau</name>
+     <name xml:lang="en_GB">Pink and Blue</name>
+     <name xml:lang="es">Rosa y azul</name>
+     <name xml:lang="fi">Pinkkiä ja sinistä</name>
+     <name xml:lang="fr">Rose et bleu</name>
+     <name xml:lang="gl">Rosa e azul</name>
+     <name xml:lang="he">ורוד וכחול</name>
+     <name xml:lang="hr">Vretenac</name>
+     <name xml:lang="sv">Rosa och blå</name>
+     <name xml:lang="uk">Рожевий і синій</name>
+     <filename>/usr/share/backgrounds/Pink_and_Blue_by_Ashwin_Deshpande.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Purple Daisy</name>
+     <name xml:lang="bs">Ljubičasta Tratinčica</name>
+     <name xml:lang="de">Lila Gänseblümchen</name>
+     <name xml:lang="en_GB">Purple Daisy</name>
+     <name xml:lang="es">Margarita morada</name>
+     <name xml:lang="fi">Violetti päivänkakkara</name>
+     <name xml:lang="fr">Marguerite mauve</name>
+     <name xml:lang="gl">Margarita púrpura</name>
+     <name xml:lang="he">חיננית סגולה</name>
+     <name xml:lang="hr">Ljubičasta tratinčica</name>
+     <name xml:lang="sv">Lila tusensköna</name>
+     <name xml:lang="uk">Барвиста ромашка</name>
+     <filename>/usr/share/backgrounds/Purple_Daisy_by_Maria_Scotto.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Road to Nowhere</name>
+     <name xml:lang="bs">Put za Nigdje</name>
+     <name xml:lang="de">Straße ins Nichts</name>
+     <name xml:lang="en_GB">Road to Nowhere</name>
+     <name xml:lang="es">Camino a ninguna parte</name>
+     <name xml:lang="fi">Tie olemattomaan</name>
+     <name xml:lang="fr">Route vers nulle part</name>
+     <name xml:lang="gl">Camiño a ningures</name>
+     <name xml:lang="he">הדרך לאף מקום</name>
+     <name xml:lang="hr">Pružni most</name>
+     <name xml:lang="ru">Дорога в никуда</name>
+     <name xml:lang="sv">Vägen till ingenstans</name>
+     <name xml:lang="uk">Дорога в нікуди</name>
+     <filename>/usr/share/backgrounds/Road_to_Nowhere_by_Matt_Bailey.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Seebrücke Graal-Müritz</name>
+     <name xml:lang="bs">Graal-Müritz most na jezeru</name>
+     <name xml:lang="de">Seebrücke Graal-Müritz</name>
+     <name xml:lang="en_GB">Seebrücke Graal-Müritz</name>
+     <name xml:lang="es">Seebrücke Graal-Müritz</name>
+     <name xml:lang="fr">Seebrücke Graal-Müritz</name>
+     <name xml:lang="gl">Seebrücke Graal-Müritz</name>
+     <name xml:lang="he">גשר הים גראל מיוריץ</name>
+     <name xml:lang="hr">Graal-Müritz lukobran</name>
+     <name xml:lang="ru">Пирс в Граль-Мюрице</name>
+     <name xml:lang="sv">Seebrücke Graal-Müritz</name>
+     <name xml:lang="uk">П'єр Грааль-Мюріц</name>
+     <filename>/usr/share/backgrounds/Seebrücke_Graal-Müritz_by_Oliver_hb.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Some Light Reading</name>
+     <name xml:lang="bs">Neko Čitanje Svjetla</name>
+     <name xml:lang="de">Einfacher Lesestoff</name>
+     <name xml:lang="en_GB">Some Light Reading</name>
+     <name xml:lang="es">Algo de lectura ligera</name>
+     <name xml:lang="fi">Hieman kevyttä luettavaa</name>
+     <name xml:lang="gl">Lixeira luz de lectura</name>
+     <name xml:lang="he">רפרוף</name>
+     <name xml:lang="hr">Stare knjige</name>
+     <name xml:lang="ru">Для лёгкого чтения</name>
+     <name xml:lang="sv">Lite lätt läsning</name>
+     <name xml:lang="uk">Трохи легкого чтива</name>
+     <filename>/usr/share/backgrounds/Some_Light_Reading_by_Brandilyn_Carpenter.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>there is something human in that stuff</name>
+     <name xml:lang="bs">nešto je ljudsko u tim stvarima</name>
+     <name xml:lang="de">da ist etwas Menschliches in diesem Kram</name>
+     <name xml:lang="en_GB">there is something human in that stuff</name>
+     <name xml:lang="es">hay algo humano en esa cosa</name>
+     <name xml:lang="fi">tässä on jotain ihmismäistä</name>
+     <name xml:lang="fr">il y a quelque chose d'humain dans ce truc</name>
+     <name xml:lang="gl">hai algo humano aí</name>
+     <name xml:lang="he">יש בזה משהו אנושי</name>
+     <name xml:lang="hr">Apstraktna slika</name>
+     <name xml:lang="sv">det finns något mänskligt bland allt det där</name>
+     <name xml:lang="uk">є в цій речі щось людське</name>
+     <filename>/usr/share/backgrounds/there_is_something_human_in_that_stuff_by_Pierre_Cante.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

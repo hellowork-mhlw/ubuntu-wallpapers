@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 15.10 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/wily.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <name>Tramonto a Scalea</name>
+     <name xml:lang="bs">Tramonto a Scalea</name>
+     <name xml:lang="de">Sonnenuntergang in Scalea</name>
+     <name xml:lang="en_GB">Tramonto a Scalea</name>
+     <name xml:lang="es">Tramonto a Scalea</name>
+     <name xml:lang="gl">Solpor en Scalea</name>
+     <name xml:lang="hr">Zalazak sunca u Scalii</name>
+     <name xml:lang="ru">Закат в Скалее</name>
+     <name xml:lang="sv">Tramonto a Scalea</name>
+     <name xml:lang="uk">Захід сонця в Скалеї</name>
+     <filename>/usr/share/backgrounds/Tramonto_a_Scalea_by_Renatvs88.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Tranquil</name>
+     <name xml:lang="bs">Miran</name>
+     <name xml:lang="de">Ruhig</name>
+     <name xml:lang="en_GB">Tranquil</name>
+     <name xml:lang="es">Tranquilidad</name>
+     <name xml:lang="gl">Tranquilidade</name>
+     <name xml:lang="he">רוגע</name>
+     <name xml:lang="hr">Podmorje</name>
+     <name xml:lang="sv">Stillhet</name>
+     <name xml:lang="uk">Ідилія</name>
+     <filename>/usr/share/backgrounds/Tranquil_by_Pat_David.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Light my fire evening sun</name>
+     <name xml:lang="bs">Zapali moju vatru večernje sunce</name>
+     <name xml:lang="de">Zünde mein Feuer an, Abendsonne</name>
+     <name xml:lang="en_GB">Light my fire evening sun</name>
+     <name xml:lang="es">Enciende mi fuego, sol de la tarde</name>
+     <name xml:lang="gl">Fulgor no serán</name>
+     <name xml:lang="hr">Livada</name>
+     <name xml:lang="sv">Ljus min eld kvällssol</name>
+     <name xml:lang="uk">Запали мене, вечірнє сонце</name>
+     <filename>/usr/share/backgrounds/Light_my_fire_evening_sun_by_Dariusz_Duma.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Sitting Here, Making Fun</name>
+     <name xml:lang="bs">Sjedim Ovdje, Pravim Zabavu</name>
+     <name xml:lang="de">Hier sitzen, sich lustig machen</name>
+     <name xml:lang="en_GB">Sitting Here, Making Fun</name>
+     <name xml:lang="es">Sentado aquí, burlándome</name>
+     <name xml:lang="gl">Aquí chorando coa risa</name>
+     <name xml:lang="hr">Kapi na listovima</name>
+     <name xml:lang="sv">Sitter här, Gör roligt</name>
+     <name xml:lang="uk">Сидимо, розважаємо</name>
+     <filename>/usr/share/backgrounds/Sitting_Here,_Making_Fun_by_Philipp_Haegi.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Moss inflorescence</name>
+     <name xml:lang="bs">Cvat Mahovine</name>
+     <name xml:lang="de">Moosblütenstand</name>
+     <name xml:lang="en_GB">Moss inflorescence</name>
+     <name xml:lang="es">Inflorescencia de musgo</name>
+     <name xml:lang="fr">Inflorescence de mousse</name>
+     <name xml:lang="gl">Inflorescencia do musgo</name>
+     <name xml:lang="hr">Cvjetovi mahovine</name>
+     <name xml:lang="ru">Спорофит мха</name>
+     <name xml:lang="sv">Moss blomställning</name>
+     <name xml:lang="uk">Суцвіття моху</name>
+     <filename>/usr/share/backgrounds/Moss_inflorescence_by_carmelo75.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Breaker</name>
+     <name xml:lang="bs">Razbijač</name>
+     <name xml:lang="de">Brecher</name>
+     <name xml:lang="en_GB">Breaker</name>
+     <name xml:lang="es">Interruptor</name>
+     <name xml:lang="gl">Interruptor</name>
+     <name xml:lang="hr">Strujni stup</name>
+     <name xml:lang="ru">Прерыватель</name>
+     <name xml:lang="sv">Vågbrytare</name>
+     <name xml:lang="uk">Рубильник</name>
+     <filename>/usr/share/backgrounds/Breaker_by_Lyle_Nel.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Blue</name>
+     <name xml:lang="az">Mavi</name>
+     <name xml:lang="cs">Modrá</name>
+     <name xml:lang="cy">Glas</name>
+     <name xml:lang="de">Blau</name>
+     <name xml:lang="en_GB">Blue</name>
+     <name xml:lang="es">Azul</name>
+     <name xml:lang="eu">Blue</name>
+     <name xml:lang="fa">آبی</name>
+     <name xml:lang="fr">Bleu</name>
+     <name xml:lang="hr">Plavetnilo</name>
+     <name xml:lang="id">Biru</name>
+     <name xml:lang="jbo">lu blanu</name>
+     <name xml:lang="lv">Zils</name>
+     <name xml:lang="mnw">သာ်ဍီု</name>
+     <name xml:lang="ms">Biru</name>
+     <name xml:lang="oc">Blau</name>
+     <name xml:lang="pl">Niebieski</name>
+     <name xml:lang="pt">Azul</name>
+     <name xml:lang="sl">Modra</name>
+     <name xml:lang="sq">Blu</name>
+     <name xml:lang="tr">Mavi</name>
+     <name xml:lang="ug">كۆك</name>
+     <name xml:lang="uk">Блакитний</name>
+     <name xml:lang="zh_CN">蓝</name>
+     <name xml:lang="zh_TW">藍色</name>
+     <filename>/usr/share/backgrounds/Blue_by_dariuskws.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Hotel</name>
+     <name xml:lang="bs">Hotel</name>
+     <name xml:lang="cs">Hotel</name>
+     <name xml:lang="de">Hotel</name>
+     <name xml:lang="en_GB">Hotel</name>
+     <name xml:lang="es">Hotel</name>
+     <name xml:lang="fi">Hotelli</name>
+     <name xml:lang="fr">Hôtel</name>
+     <name xml:lang="gl">Hotel</name>
+     <name xml:lang="he">מלון</name>
+     <name xml:lang="hr">Hotel</name>
+     <name xml:lang="ru">Отель</name>
+     <name xml:lang="sv">Hotell</name>
+     <name xml:lang="uk">Готель</name>
+     <filename>/usr/share/backgrounds/Hotel_by_sarcasmrules2011.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Mediterranean Sea</name>
+     <name xml:lang="bs">Sredozemno more</name>
+     <name xml:lang="cs">Středozemní moře</name>
+     <name xml:lang="de">Mittelmeer</name>
+     <name xml:lang="en_GB">Mediterranean Sea</name>
+     <name xml:lang="es">Mar mediterráneo</name>
+     <name xml:lang="fi">Välimeri</name>
+     <name xml:lang="fr">Mer Méditerranée</name>
+     <name xml:lang="gl">Mar Mediterráneo</name>
+     <name xml:lang="he">הים התיכון</name>
+     <name xml:lang="hr">Sredozemno more</name>
+     <name xml:lang="ru">Средиземное море</name>
+     <name xml:lang="sv">Medelhavet</name>
+     <name xml:lang="uk">Середземне море</name>
+     <filename>/usr/share/backgrounds/Mediterranean_Sea_by_simosx.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract Ubuntu</name>
+     <name xml:lang="bs">Apstraktni Ubuntu</name>
+     <name xml:lang="cs">Abstraktní Ubuntu</name>
+     <name xml:lang="de">Abstraktes Ubuntu</name>
+     <name xml:lang="en_GB">Abstract Ubuntu</name>
+     <name xml:lang="es">Ubuntu abstracto</name>
+     <name xml:lang="fr">Ubuntu abstrait</name>
+     <name xml:lang="gl">Ubuntu abstracto</name>
+     <name xml:lang="he">אובונטו מופשט</name>
+     <name xml:lang="hr">Abstraktan Ubuntu</name>
+     <name xml:lang="sv">Abstrakt Ubuntu</name>
+     <name xml:lang="uk">Абстрактний Ubuntu</name>
+     <filename>/usr/share/backgrounds/Abstract_Ubuntu_by_Marek_Koteluk.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

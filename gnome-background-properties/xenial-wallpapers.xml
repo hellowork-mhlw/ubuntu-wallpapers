@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 16.04 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/xenial.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <name>160218-deux-two</name>
+     <name xml:lang="bs">160218-deux-two</name>
+     <name xml:lang="de">160218-deux-zwei</name>
+     <name xml:lang="en_GB">160218-deux-two</name>
+     <name xml:lang="es">160218-deux-two</name>
+     <name xml:lang="fi">160218-deux-two</name>
+     <name xml:lang="fr">160218-deux-two</name>
+     <name xml:lang="gl">160218-deux-two</name>
+     <name xml:lang="hr">Dva</name>
+     <name xml:lang="sv">160218-deux-two</name>
+     <name xml:lang="uk">160218-deux-two</name>
+     <filename>/usr/share/backgrounds/160218-deux-two_by_Pierre_Cante.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Black hole</name>
+     <name xml:lang="bs">Crna rupa</name>
+     <name xml:lang="cs">Černá díra</name>
+     <name xml:lang="de">Schwarzes Loch</name>
+     <name xml:lang="en_GB">Black hole</name>
+     <name xml:lang="es">Agujero negro</name>
+     <name xml:lang="fi">Musta aukko</name>
+     <name xml:lang="fr">Trou noir</name>
+     <name xml:lang="gl">Buraco negro</name>
+     <name xml:lang="he">חור שחור</name>
+     <name xml:lang="hr">Crna rupa</name>
+     <name xml:lang="ru">Чёрная дыра</name>
+     <name xml:lang="sv">Svart hål</name>
+     <name xml:lang="uk">Чорна діра</name>
+     <filename>/usr/share/backgrounds/Black_hole_by_Marek_Koteluk.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Cielo estrellado</name>
+     <name xml:lang="bs">Cielo estrellado</name>
+     <name xml:lang="de">Sternenhimmel</name>
+     <name xml:lang="en_GB">Cielo estrellado</name>
+     <name xml:lang="es">Cielo estrellado</name>
+     <name xml:lang="gl">Ceo estrelado</name>
+     <name xml:lang="hr">Zvjezdani pogled 3</name>
+     <name xml:lang="ru">Звёздное небо</name>
+     <name xml:lang="sv">Cielo estrellado</name>
+     <name xml:lang="uk">Зоряне небо</name>
+     <filename>/usr/share/backgrounds/Cielo_estrellado_by_Eduardo_Diez_Viñuela.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>clock</name>
+     <name xml:lang="bs">sat</name>
+     <name xml:lang="cs">hodiny</name>
+     <name xml:lang="de">Uhr</name>
+     <name xml:lang="en_GB">clock</name>
+     <name xml:lang="es">reloj</name>
+     <name xml:lang="fr">horloge</name>
+     <name xml:lang="gl">reoloxo</name>
+     <name xml:lang="he">שעון</name>
+     <name xml:lang="hr">Sat</name>
+     <name xml:lang="ru">Часы</name>
+     <name xml:lang="sv">klocka</name>
+     <name xml:lang="uk">Годинник</name>
+     <filename>/usr/share/backgrounds/clock_by_Bernhard_Hanakam.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Dans ma bulle</name>
+     <name xml:lang="bs">Dans ma bulle</name>
+     <name xml:lang="de">In meiner Luftblase</name>
+     <name xml:lang="en_GB">Dans ma bulle</name>
+     <name xml:lang="es">Dans ma bulle</name>
+     <name xml:lang="fr">Dans ma bulle</name>
+     <name xml:lang="gl">Na miña burbulla</name>
+     <name xml:lang="hr">Baloni</name>
+     <name xml:lang="ru">Пузырь</name>
+     <name xml:lang="sv">Dans ma bulle</name>
+     <name xml:lang="uk">В моїй бульбашці</name>
+     <filename>/usr/share/backgrounds/Dans_ma_bulle_by_Christophe_Weibel.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Flora</name>
+     <name xml:lang="bs">Flora</name>
+     <name xml:lang="de">Flora</name>
+     <name xml:lang="en_GB">Flora</name>
+     <name xml:lang="es">Flora</name>
+     <name xml:lang="gl">Flora</name>
+     <name xml:lang="hr">Flora</name>
+     <name xml:lang="ru">Флора</name>
+     <name xml:lang="sv">Flora</name>
+     <name xml:lang="uk">Флора</name>
+     <filename>/usr/share/backgrounds/Flora_by_Marek_Koteluk.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Icy Grass</name>
+     <name xml:lang="bs">Zaleđena Trava</name>
+     <name xml:lang="cs">Ledová tráva</name>
+     <name xml:lang="de">Gras mit Raureif</name>
+     <name xml:lang="en_GB">Icy Grass</name>
+     <name xml:lang="es">Césped congelado</name>
+     <name xml:lang="fr">Herbe glacée</name>
+     <name xml:lang="gl">Herba conxelada</name>
+     <name xml:lang="he">דשא קפוא</name>
+     <name xml:lang="hr">Zaleđena trava</name>
+     <name xml:lang="sv">Isigt gräs</name>
+     <name xml:lang="uk">Лісова трава</name>
+     <filename>/usr/share/backgrounds/Icy_Grass_by_Raymond_Lavoie.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Night lights</name>
+     <name xml:lang="bs">Večernja svjetla</name>
+     <name xml:lang="cs">Noční světla</name>
+     <name xml:lang="de">Nachtlichter</name>
+     <name xml:lang="en_GB">Night lights</name>
+     <name xml:lang="es">Luces de noche</name>
+     <name xml:lang="fi">Yövalot</name>
+     <name xml:lang="fr">Lumières de la nuit</name>
+     <name xml:lang="gl">Luces nocturnas</name>
+     <name xml:lang="he">אורות הלילה</name>
+     <name xml:lang="hr">Večernja svjetla</name>
+     <name xml:lang="ru">Ночные огни</name>
+     <name xml:lang="sv">Nattlampor</name>
+     <name xml:lang="uk">Нічні вогні</name>
+     <filename>/usr/share/backgrounds/Night_lights_by_Alberto_Salvia_Novella.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>passion flower</name>
+     <name xml:lang="bs">cvijet strasti</name>
+     <name xml:lang="de">Passionsblume</name>
+     <name xml:lang="en_GB">passion flower</name>
+     <name xml:lang="es">passiflora</name>
+     <name xml:lang="gl">Flor da pasión</name>
+     <name xml:lang="hr">Cvijet pasiflore</name>
+     <name xml:lang="ru">Страстоцвет</name>
+     <name xml:lang="sv">passionsblomma</name>
+     <name xml:lang="uk">Квітка пристрасті</name>
+     <filename>/usr/share/backgrounds/passion_flower_by_Irene_Gr.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Spring</name>
+     <name xml:lang="bs">Proljeće</name>
+     <name xml:lang="cs">Jaro</name>
+     <name xml:lang="de">Frühling</name>
+     <name xml:lang="en_GB">Spring</name>
+     <name xml:lang="es">Primavera</name>
+     <name xml:lang="fi">Kevät</name>
+     <name xml:lang="fr">Printemps</name>
+     <name xml:lang="gl">Primavera</name>
+     <name xml:lang="he">אביב</name>
+     <name xml:lang="hr">Tulipan</name>
+     <name xml:lang="sv">Vår</name>
+     <name xml:lang="uk">Весна</name>
+     <filename>/usr/share/backgrounds/Spring_by_Peter_Apas.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>TCP118v1</name>
+     <name xml:lang="bs">TCP118v1</name>
+     <name xml:lang="de">TCP118v1</name>
+     <name xml:lang="en_GB">TCP118v1</name>
+     <name xml:lang="es">TCP118v1</name>
+     <name xml:lang="fi">TCP118v1</name>
+     <name xml:lang="fr">TCP118v1</name>
+     <name xml:lang="gl">TCP118v1</name>
+     <name xml:lang="he">TCP118v1</name>
+     <name xml:lang="hr">Maglovita udolina</name>
+     <name xml:lang="sv">TCP118v1</name>
+     <name xml:lang="uk">TCP118v1</name>
+     <filename>/usr/share/backgrounds/TCP118v1_by_Tiziano_Consonni.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>The Land of Edonias</name>
+     <name xml:lang="bs">Zemlja Edonije</name>
+     <name xml:lang="de">Land von Edonias</name>
+     <name xml:lang="en_GB">The Land of Edonias</name>
+     <name xml:lang="es">La tierra de Edonias</name>
+     <name xml:lang="gl">A terra das papoulas</name>
+     <name xml:lang="hr">Polje maka</name>
+     <name xml:lang="sv">Edonias land</name>
+     <name xml:lang="uk">Край Едонія</name>
+     <filename>/usr/share/backgrounds/The_Land_of_Edonias_by_Γιωργος_Αργυροπουλος.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

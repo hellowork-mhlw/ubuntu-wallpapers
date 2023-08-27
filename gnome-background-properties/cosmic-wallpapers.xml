@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 18.10 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/cosmic.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <name>Black Sand Beach</name>
+     <name xml:lang="cs">Pláž s černým pískem</name>
+     <name xml:lang="de">Schwarzsandstrand</name>
+     <name xml:lang="en_GB">Black Sand Beach</name>
+     <name xml:lang="es">Playa de arena negra</name>
+     <name xml:lang="fa">ساحل ماسهٔ سیاه</name>
+     <name xml:lang="fi">Musta hiekkaranta</name>
+     <name xml:lang="fr">Plage de sable noir</name>
+     <name xml:lang="gl">Praia de area negra</name>
+     <name xml:lang="he">חוף חול שחור</name>
+     <name xml:lang="hr">Plaža od crnog pijeska</name>
+     <name xml:lang="sv">Svart sandstrand</name>
+     <name xml:lang="uk">Чорний Піщаний пляж</name>
+     <filename>/usr/share/backgrounds/Black_sand_beach_by_Mads_Rosendahl.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Carriage Return</name>
+     <name xml:lang="de">Wagenrücklauf</name>
+     <name xml:lang="en_GB">Carriage Return</name>
+     <name xml:lang="es">Punto y aparte</name>
+     <name xml:lang="fi">Hevosvaunujen paluu</name>
+     <name xml:lang="gl">Retorno de carro</name>
+     <name xml:lang="hr">Povratak kočije</name>
+     <name xml:lang="ru">Возврат каретки</name>
+     <name xml:lang="sv">Returtangent</name>
+     <name xml:lang="uk">Повернення каретки</name>
+     <filename>/usr/share/backgrounds/Carriage_Return_by_mendhak.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Cosmic Cuttlefish</name>
+     <name xml:lang="de">Kosmischer Tintenfisch</name>
+     <name xml:lang="en_GB">Cosmic Cuttlefish</name>
+     <name xml:lang="es">Jibia cósmica</name>
+     <name xml:lang="fr">Cosmic Cuttlefish</name>
+     <name xml:lang="gl">Choco Cósmico</name>
+     <name xml:lang="hr">Kozmička sipa</name>
+     <name xml:lang="sv">Cosmic Cuttlefish</name>
+     <name xml:lang="uk">Космічна каракатиця</name>
+     <filename>/usr/share/backgrounds/Cosmic_Cuttlefish_by_Jim_Coleman.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Encounter</name>
+     <name xml:lang="de">Begegnung</name>
+     <name xml:lang="en_GB">Encounter</name>
+     <name xml:lang="es">Encuentro</name>
+     <name xml:lang="fa">مواجهه</name>
+     <name xml:lang="fi">Kohtaaminen</name>
+     <name xml:lang="fr">Rencontre</name>
+     <name xml:lang="gl">Encontro</name>
+     <name xml:lang="he">מפגש</name>
+     <name xml:lang="hr">Bliski susret</name>
+     <name xml:lang="sv">Möte</name>
+     <name xml:lang="uk">Дуель</name>
+     <filename>/usr/share/backgrounds/Encounter_by_Lazardjin.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Fairground at Night</name>
+     <name xml:lang="de">Festplatz in der Nacht</name>
+     <name xml:lang="en_GB">Fairground at Night</name>
+     <name xml:lang="es">Feria por la noche</name>
+     <name xml:lang="fi">Huvipuistossa yöaikaan</name>
+     <name xml:lang="gl">Feira de noite</name>
+     <name xml:lang="he">יריד בלילה</name>
+     <name xml:lang="hr">Sajam noću</name>
+     <name xml:lang="sv">Nöjesfält nattetid</name>
+     <name xml:lang="uk">Ярмарок уночі</name>
+     <filename>/usr/share/backgrounds/Fairground_at_Night_by_martin.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Image of Mount Parnassus</name>
+     <name xml:lang="de">Bild des Berges Parnassus</name>
+     <name xml:lang="en_GB">Image of Mount Parnassus</name>
+     <name xml:lang="es">Estampa del monte Parnaso</name>
+     <name xml:lang="fi">Kuva Parnassós-vuoresta</name>
+     <name xml:lang="fr">Image du mont Parnasse</name>
+     <name xml:lang="gl">Imaxe do Monte Parnaso</name>
+     <name xml:lang="he">תמונה של הר פרנסוס</name>
+     <name xml:lang="hr">Planina Parnas</name>
+     <name xml:lang="sv">Bild av Mount Parnassus</name>
+     <name xml:lang="uk">Знімок гори Парнас</name>
+     <filename>/usr/share/backgrounds/Image_of_Mount_Parnassus_by_simosx.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Milky Way Before The Dawn</name>
+     <name xml:lang="cs">Mléčná dráha před svítáním</name>
+     <name xml:lang="de">Die Milchstraße vor der Dämmerung</name>
+     <name xml:lang="en_GB">Milky Way Before The Dawn</name>
+     <name xml:lang="es">La Vía Láctea al alba</name>
+     <name xml:lang="fa">راه شیری پیش زا طلوع</name>
+     <name xml:lang="fi">Linnunrata ennen aamunkoittoa</name>
+     <name xml:lang="fr">Voie lactée avant l'aube</name>
+     <name xml:lang="gl">Vía Láctea antes do abrente</name>
+     <name xml:lang="he">שביל החלב לפני הזריחה</name>
+     <name xml:lang="hr">Mliječni put prije zore</name>
+     <name xml:lang="sv">Vintergatan före gryning</name>
+     <name xml:lang="uk">Чумацький шлях перед світанком</name>
+     <filename>/usr/share/backgrounds/Milky_Way_before_the_dawn_by_Tomas_Sobek.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Morning</name>
+     <name xml:lang="cs">Ráno</name>
+     <name xml:lang="de">Morgen</name>
+     <name xml:lang="en_GB">Morning</name>
+     <name xml:lang="es">Amanecer</name>
+     <name xml:lang="fa">صبح</name>
+     <name xml:lang="fi">Aamu</name>
+     <name xml:lang="fr">Matin</name>
+     <name xml:lang="gl">Mañá</name>
+     <name xml:lang="he">בוקר</name>
+     <name xml:lang="hr">Jutro</name>
+     <name xml:lang="ru">Утро</name>
+     <name xml:lang="sv">Morgon</name>
+     <name xml:lang="uk">Ранок</name>
+     <filename>/usr/share/backgrounds/Morning_by_Bernhard_Hanakam.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Spring Flowers</name>
+     <name xml:lang="cs">Jarní květiny</name>
+     <name xml:lang="de">Frühlingsblumen</name>
+     <name xml:lang="en_GB">Spring Flowers</name>
+     <name xml:lang="es">Flores primaverales</name>
+     <name xml:lang="fa">گل‌های بهاری</name>
+     <name xml:lang="fi">Keväiset kukat</name>
+     <name xml:lang="fr">Fleurs de printemps</name>
+     <name xml:lang="gl">Flores primaverais</name>
+     <name xml:lang="he">פרחי אביב</name>
+     <name xml:lang="hr">Proljetni cvjetovi</name>
+     <name xml:lang="ru">Весенние цветы</name>
+     <name xml:lang="sv">Vårblommor</name>
+     <name xml:lang="uk">Весняні квіти</name>
+     <filename>/usr/share/backgrounds/Spring_Flowers_by_MK4-MI01.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Tapiola Espoo Cultural Center</name>
+     <name xml:lang="de">Tapiola Espoo Kulturzentrum</name>
+     <name xml:lang="en_GB">Tapiola Espoo Cultural Center</name>
+     <name xml:lang="es">Centro cultural de Tapiola, Espoo</name>
+     <name xml:lang="fi">Espoon kulttuurikeskus</name>
+     <name xml:lang="gl">Centro cultural Tapiola Espoo</name>
+     <name xml:lang="he">המרכז הקהילתי של טפיולה שבאספו</name>
+     <name xml:lang="hr">Tapiola Espoo kulturni centar</name>
+     <name xml:lang="sv">Hagalund Espoo kulturcenter</name>
+     <name xml:lang="uk">Культурний центра Tapiola Espoo</name>
+     <filename>/usr/share/backgrounds/Tapiola_Espoo_Cultural_Center_by_Agostino_Faedda.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>touch de vert</name>
+     <name xml:lang="de">Ein Hauch von Grün</name>
+     <name xml:lang="en_GB">touch de vert</name>
+     <name xml:lang="es">Toque de verde</name>
+     <name xml:lang="fr">touche de vert</name>
+     <name xml:lang="gl">toque de verde</name>
+     <name xml:lang="hr">Slika</name>
+     <name xml:lang="sv">grön touch</name>
+     <name xml:lang="uk">touch de vert</name>
+     <filename>/usr/share/backgrounds/touch_de_vert_by_François_Cante.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Ubuntu Party de Paris</name>
+     <name xml:lang="de">Ubuntu Party in Paris</name>
+     <name xml:lang="en_GB">Ubuntu Party de Paris</name>
+     <name xml:lang="es">Ubuntu Party de París</name>
+     <name xml:lang="fa">جشن اوبونتو در پاریس</name>
+     <name xml:lang="fi">Ubuntu-juhlat Pariisissa</name>
+     <name xml:lang="fr">Ubuntu Party de Paris</name>
+     <name xml:lang="gl">Festa de Ubuntu de París</name>
+     <name xml:lang="he">מסיבת אובונטו בפריז</name>
+     <name xml:lang="hr">Ubuntu proslava u Parizu</name>
+     <name xml:lang="sv">Ubuntu Party i Paris</name>
+     <name xml:lang="uk">Вечірка Ubuntu в Парижі</name>
+     <filename>/usr/share/backgrounds/Ubuntu_Party_de_Paris_by_Marcos_Costales.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

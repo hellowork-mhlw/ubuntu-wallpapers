@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 21.10 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/impish.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <name>Milky Way</name>
+     <name xml:lang="de">Milchstraße</name>
+     <name xml:lang="en_GB">Milky Way</name>
+     <name xml:lang="es">Vía Láctea</name>
+     <name xml:lang="fr">Voie lactée</name>
+     <name xml:lang="gl">Vía Láctea</name>
+     <name xml:lang="hr">Mliječna staza</name>
+     <name xml:lang="sv">Vintergatan</name>
+     <name xml:lang="uk">Чумацький шлях</name>
+     <filename>/usr/share/backgrounds/Milky_Way_by_Paulo_José_Oliveira_Amaro.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Way</name>
+     <name xml:lang="de">Weg</name>
+     <name xml:lang="en_GB">Way</name>
+     <name xml:lang="fr">Route</name>
+     <name xml:lang="gl">Camiño</name>
+     <name xml:lang="hr">Put</name>
+     <name xml:lang="sv">Väg</name>
+     <name xml:lang="uk">Тракт</name>
+     <filename>/usr/share/backgrounds/Way_by_Kacper_Ślusarczyk.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

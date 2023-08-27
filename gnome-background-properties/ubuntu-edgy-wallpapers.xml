@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>Simple Ubuntu (Edgy)</name>
+    <filename>/usr/share/backgrounds/edgy-final-ubuntu.png</filename>
+    <options>zoom</options>
+    <pcolor>#dab082</pcolor>
+    <scolor>#dab082</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Ubuntu Smooth Chocolate (Edgy)</name>
+    <filename>/usr/share/backgrounds/ubuntu-edgy-smooth-chocolate.png</filename>
+    <options>zoom</options>
+    <pcolor>#2c160a</pcolor>
+    <scolor>#2c160a</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>

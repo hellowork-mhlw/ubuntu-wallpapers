@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 19.10 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/eoan.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <name>Beijling park burial path</name>
+     <name xml:lang="de">Pekinger Friedhofspfad</name>
+     <name xml:lang="en_GB">Beijling park burial path</name>
+     <name xml:lang="gl">Ruta fúnebre do parque de Bijling</name>
+     <name xml:lang="hr">Šetnica pogrebnog parka u Pekingu</name>
+     <name xml:lang="sv">Beijing-park, stig till begravningsplats</name>
+     <name xml:lang="uk">Поховальна доріжка у парку Бейлінг</name>
+     <filename>/usr/share/backgrounds/Beijling_park_burial_path_by_Mattias_Andersson.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Frozen sunset on the lake</name>
+     <name xml:lang="de">Gefrorener Sonnenuntergang am See</name>
+     <name xml:lang="en_GB">Frozen sunset on the lake</name>
+     <name xml:lang="es">Atardecer congelado en el lago</name>
+     <name xml:lang="fa">غروب یخ‌زده روی دریاچه</name>
+     <name xml:lang="fr">Coucher de soleil gelé sur le lac</name>
+     <name xml:lang="gl">Solpor xeado no lado</name>
+     <name xml:lang="he">שקיעה קפואה על האגם</name>
+     <name xml:lang="hr">Smrznuti sumrak na jezeru</name>
+     <name xml:lang="ru">Морозный закат на озере</name>
+     <name xml:lang="sv">Djupfryst solnedgång på sjön</name>
+     <name xml:lang="uk">Морозний захід сонця на озері</name>
+     <filename>/usr/share/backgrounds/Frozen_sunset_on_the_lake_by_Manuel_Arslanyan.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Origin of nature</name>
+     <name xml:lang="de">Herkunft der Natur</name>
+     <name xml:lang="en_GB">Origin of nature</name>
+     <name xml:lang="es">Origen de la naturaleza</name>
+     <name xml:lang="fa">منشأ طبیعت</name>
+     <name xml:lang="fr">Origine de la nature</name>
+     <name xml:lang="gl">Orixe da naturez</name>
+     <name xml:lang="he">מקור הטבע</name>
+     <name xml:lang="hr">Iskonska priroda</name>
+     <name xml:lang="mnw">မဗဳဇသဘာဝ</name>
+     <name xml:lang="sv">Naturligt ursprung</name>
+     <name xml:lang="uk">Недоторкана природа</name>
+     <filename>/usr/share/backgrounds/Origin_of_nature_by_Julian_Tomasini.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Sky Sparkles</name>
+     <name xml:lang="de">Funkelnder Himmel</name>
+     <name xml:lang="en_GB">Sky Sparkles</name>
+     <name xml:lang="es">Chispas en el cielo</name>
+     <name xml:lang="fr">Étincelles dans le ciel</name>
+     <name xml:lang="gl">Faíscas de ceo</name>
+     <name xml:lang="he">ניצוצות בשמיים</name>
+     <name xml:lang="hr">Nebeske iskre</name>
+     <name xml:lang="sv">Himmelskt gnistrande</name>
+     <name xml:lang="uk">Небесні іскри</name>
+     <filename>/usr/share/backgrounds/Sky_Sparkles_by_Joe_Thompson.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Stargazing</name>
+     <name xml:lang="de">Sternendeutung</name>
+     <name xml:lang="en_GB">Stargazing</name>
+     <name xml:lang="es">Contemplando las estrellas</name>
+     <name xml:lang="gl">Contemplando as estrelas</name>
+     <name xml:lang="hr">Zvjezdani pogled</name>
+     <name xml:lang="sv">Titta på stjärnorna</name>
+     <name xml:lang="uk">Замріяність</name>
+     <filename>/usr/share/backgrounds/Stargazing_by_Marcel_Kächele.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Ubuntu 80s glitch</name>
+     <name xml:lang="de">Ubuntu 80er Glitch</name>
+     <name xml:lang="en_GB">Ubuntu 80s glitch</name>
+     <name xml:lang="es">Ubuntu con error visual ochentero</name>
+     <name xml:lang="gl">Ubuntu con falliño dos 80</name>
+     <name xml:lang="hr">Ubuntu smetnja iz 80-ih</name>
+     <name xml:lang="sv">Ubuntu 80-talsstrul</name>
+     <name xml:lang="uk">Збій Ubuntu 80-х</name>
+     <filename>/usr/share/backgrounds/Ubuntu_80s_glitch_by_Abubakar_NK.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Ubuntu gel</name>
+     <name xml:lang="de">Ubuntu-Gel</name>
+     <name xml:lang="en_GB">Ubuntu gel</name>
+     <name xml:lang="es">Gelatina Ubuntu</name>
+     <name xml:lang="fa">ژل اوبونتو</name>
+     <name xml:lang="gl">Xel Ubuntu</name>
+     <name xml:lang="he">ג׳ל אובונטו</name>
+     <name xml:lang="hr">Ubuntu gel</name>
+     <name xml:lang="sv">Ubuntu gelé</name>
+     <name xml:lang="uk">Ubuntu-гель</name>
+     <filename>/usr/share/backgrounds/Ubuntu_gel_by_Midge_Mantissa_Sinnaeve.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Ermine lines</name>
+     <name xml:lang="de">Kurzschwanzwiesel Linien</name>
+     <name xml:lang="en_GB">Ermine lines</name>
+     <name xml:lang="es">Líneas de armiño</name>
+     <name xml:lang="gl">Liñas de doniña</name>
+     <name xml:lang="hr">Ermine linije</name>
+     <name xml:lang="sv">Hermelinlinjer</name>
+     <name xml:lang="uk">Обриси горностая</name>
+     <filename>/usr/share/backgrounds/Ermine_lines_by_Gustavo_Brenner.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Flight dive</name>
+     <name xml:lang="de">Flugtauchgang</name>
+     <name xml:lang="en_GB">Flight dive</name>
+     <name xml:lang="es">Zambullida</name>
+     <name xml:lang="gl">Mergullo aéreo</name>
+     <name xml:lang="hr">Leteći zaron</name>
+     <name xml:lang="sv">Flygdykning</name>
+     <name xml:lang="uk">Летюче занурення</name>
+     <filename>/usr/share/backgrounds/Flight_dive_by_Nicolas_Silva.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

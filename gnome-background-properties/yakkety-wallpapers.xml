@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 16.10 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/yakkety.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <name>Alien wing</name>
+     <name xml:lang="bs">Krilo vanzemaljca</name>
+     <name xml:lang="de">Alienflügel</name>
+     <name xml:lang="en_GB">Alien wing</name>
+     <name xml:lang="es">Ala alienígena</name>
+     <name xml:lang="fi">Muukalaisen siipi</name>
+     <name xml:lang="gl">Alas extraterrestres</name>
+     <name xml:lang="he">כנף של חייזר</name>
+     <name xml:lang="hr">Krilo vanzemaljca</name>
+     <name xml:lang="sv">Alien vinge</name>
+     <name xml:lang="uk">Крило чужого</name>
+     <filename>/usr/share/backgrounds/Alien_wing_by_Ralph_Crützen.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Classic Guitar Detail</name>
+     <name xml:lang="bs">Detalj Klasične Gitare</name>
+     <name xml:lang="cs">Detail akustické kytary</name>
+     <name xml:lang="de">Klassische Gitarre</name>
+     <name xml:lang="en_GB">Classic Guitar Detail</name>
+     <name xml:lang="es">Detalle de guitarra clásica</name>
+     <name xml:lang="fr">Détail de guitare classique</name>
+     <name xml:lang="gl">Detalle de guitarra clásica</name>
+     <name xml:lang="he">גיטרה קלסית מקרוב</name>
+     <name xml:lang="hr">Detalj klasične gitare</name>
+     <name xml:lang="ru">Резонатор гитары</name>
+     <name xml:lang="sv">Klassisk gitarrdetalj</name>
+     <name xml:lang="uk">Деталь класичної гітари</name>
+     <filename>/usr/share/backgrounds/Classic_Guitar_Detail_by_Sten_Jørgen_Pettersen.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>DSC3907</name>
+     <name xml:lang="bs">DSC3907</name>
+     <name xml:lang="de">DSC3907</name>
+     <name xml:lang="en_GB">DSC3907</name>
+     <name xml:lang="es">DSC3907</name>
+     <name xml:lang="fi">DSC3907</name>
+     <name xml:lang="fr">DSC3907</name>
+     <name xml:lang="gl">DSC3907</name>
+     <name xml:lang="he">DSC3907</name>
+     <name xml:lang="hr">Grančica</name>
+     <name xml:lang="sv">DSC3907</name>
+     <name xml:lang="uk">DSC3907</name>
+     <filename>/usr/share/backgrounds/DSC3907_by_Todor_Velichkov.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Haukland Beach view</name>
+     <name xml:lang="bs">Pogled na Haukland plažu</name>
+     <name xml:lang="de">Haukland Strandaussicht</name>
+     <name xml:lang="en_GB">Haukland Beach view</name>
+     <name xml:lang="es">Vista a la playa en Haukland</name>
+     <name xml:lang="fi">Hauklandin rantanäkymä</name>
+     <name xml:lang="fr">Haukland Beach</name>
+     <name xml:lang="gl">Vista  da baía de Haukland</name>
+     <name xml:lang="hr">Pogled na Haukland plažu</name>
+     <name xml:lang="sv">Hauklandstranda vy</name>
+     <name xml:lang="uk">Вид на пляж Хаукланд</name>
+     <filename>/usr/share/backgrounds/Haukland_Beach_view_by_Michele_Agostini.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>IMG 0081</name>
+     <name xml:lang="bs">IMG 0081</name>
+     <name xml:lang="de">IMG 0081</name>
+     <name xml:lang="en_GB">IMG 0081</name>
+     <name xml:lang="es">Mariposa amarilla</name>
+     <name xml:lang="fi">IMG 0081</name>
+     <name xml:lang="fr">IMG 0081</name>
+     <name xml:lang="gl">IMG 0081</name>
+     <name xml:lang="he">תמונה 0081</name>
+     <name xml:lang="hr">Leptir</name>
+     <name xml:lang="sv">IMG 0081</name>
+     <name xml:lang="uk">IMG 0081</name>
+     <filename>/usr/share/backgrounds/IMG_0081_by_Jobin_Babu.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>IMG 7632</name>
+     <name xml:lang="bs">IMG 7632</name>
+     <name xml:lang="de">IMG 7632</name>
+     <name xml:lang="en_GB">IMG 7632</name>
+     <name xml:lang="es">Camino de otoño</name>
+     <name xml:lang="fi">IMG 7632</name>
+     <name xml:lang="fr">IMG 7632</name>
+     <name xml:lang="gl">IMG 7632</name>
+     <name xml:lang="he">תמונה 7632</name>
+     <name xml:lang="hr">Šimski puteljak</name>
+     <name xml:lang="sv">IMG 7632</name>
+     <name xml:lang="uk">IMG 7632</name>
+     <filename>/usr/share/backgrounds/IMG_7632_by_Jobin_Babu.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>larung gar by night</name>
+     <name xml:lang="bs">larung gar noću</name>
+     <name xml:lang="de">Larung Gar bei Nacht</name>
+     <name xml:lang="en_GB">larung gar by night</name>
+     <name xml:lang="es">larung gar por la noche</name>
+     <name xml:lang="fr">Larung Gar de nuit</name>
+     <name xml:lang="gl">Larung Gar de noite</name>
+     <name xml:lang="hr">larung gar noću</name>
+     <name xml:lang="ru">Ларунг Гар ночью</name>
+     <name xml:lang="sv">Larung Gar på natten</name>
+     <name xml:lang="uk">Долина Ларунг уночі</name>
+     <filename>/usr/share/backgrounds/larung_gar_by_night_by_Geza_Radics.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>P1310728</name>
+     <name xml:lang="bs">P1310728</name>
+     <name xml:lang="de">P1310728</name>
+     <name xml:lang="en_GB">P1310728</name>
+     <name xml:lang="es">Faro</name>
+     <name xml:lang="fi">P1310728</name>
+     <name xml:lang="fr">P1310728</name>
+     <name xml:lang="gl">P1310728</name>
+     <name xml:lang="hr">Svjetionik</name>
+     <name xml:lang="sv">P1310728</name>
+     <name xml:lang="uk">P1310728</name>
+     <filename>/usr/share/backgrounds/P1310728_by_Ferran_Reyes.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>ubuntu16_10</name>
+     <name xml:lang="bs">ubuntu16_10</name>
+     <name xml:lang="de">ubuntu16_10</name>
+     <name xml:lang="en_GB">ubuntu16_10</name>
+     <name xml:lang="es">ubuntu16_10</name>
+     <name xml:lang="fi">ubuntu16_10</name>
+     <name xml:lang="fr">ubuntu16_10</name>
+     <name xml:lang="gl">ubuntu16_10</name>
+     <name xml:lang="hr">Ubuntu16.10</name>
+     <name xml:lang="sv">ubuntu 16.10</name>
+     <name xml:lang="uk">ubuntu16_10</name>
+     <filename>/usr/share/backgrounds/ubuntu16_10_by_Khoir_Rudin.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>ubuntu wallpaper 16 10 02</name>
+     <name xml:lang="bs">ubuntu wallpaper 16 10 02</name>
+     <name xml:lang="de">ubuntu wallpaper 16 10 02</name>
+     <name xml:lang="en_GB">ubuntu wallpaper 16 10 02</name>
+     <name xml:lang="es">fondo de pantalla de ubuntu 16 10 02</name>
+     <name xml:lang="fr">ubuntu wallpaper 16 10 02</name>
+     <name xml:lang="gl">panel de fondo ubuntu 16 10 02</name>
+     <name xml:lang="hr">Ubuntu pozadina 16.10.02</name>
+     <name xml:lang="sv">ubuntu-bakgrund 16 10 02</name>
+     <name xml:lang="uk">ubuntu wallpaper 16 10 02</name>
+     <filename>/usr/share/backgrounds/ubuntu_wallpaper_16_10_02_by_screen_name_007.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Wanaka Tree</name>
+     <name xml:lang="bs">Wanaka Drvo</name>
+     <name xml:lang="de">Wanakabaum</name>
+     <name xml:lang="en_GB">Wanaka Tree</name>
+     <name xml:lang="es">Árbol de Wanaka</name>
+     <name xml:lang="fi">Wanaka-puu</name>
+     <name xml:lang="gl">Árbore en Wanaka</name>
+     <name xml:lang="he">עץ ואנקה</name>
+     <name xml:lang="hr">Wanaka drvo</name>
+     <name xml:lang="ru">Дерево посреди озера Уанака</name>
+     <name xml:lang="sv">Wanaka träd</name>
+     <name xml:lang="uk">Дерево Ванака</name>
+     <filename>/usr/share/backgrounds/Wanaka_Tree_by_Stephane_Pakula.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Yala mountain</name>
+     <name xml:lang="bs">Yala planina</name>
+     <name xml:lang="de">Yala-Berg</name>
+     <name xml:lang="en_GB">Yala mountain</name>
+     <name xml:lang="es">Montaña Yala</name>
+     <name xml:lang="fr">Pic Yala</name>
+     <name xml:lang="gl">Montaña Yala</name>
+     <name xml:lang="he">הר יאלה</name>
+     <name xml:lang="hr">Yala planina</name>
+     <name xml:lang="ru">Пик Яла</name>
+     <name xml:lang="sv">Yala berg</name>
+     <name xml:lang="uk">Вершина Яла</name>
+     <filename>/usr/share/backgrounds/Yala_mountain_by_Geza_Radics.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

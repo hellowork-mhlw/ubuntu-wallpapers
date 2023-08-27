@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 20.10 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/groovy.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract Painting Photo</name>
+     <name xml:lang="de">Abstrakte Malerei Foto</name>
+     <name xml:lang="en_GB">Abstract Painting Photo</name>
+     <name xml:lang="gl">Foto de pintura abstracta</name>
+     <name xml:lang="hr">Fotografija apstraktnog slikarstva</name>
+     <name xml:lang="sv">Foto av abstrakt konst</name>
+     <name xml:lang="uk">Фото абстрактного живопису</name>
+     <filename>/usr/share/backgrounds/Abstract_Painting_Photo_by_Pierre_Châtel-Innocenti.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Camera Film</name>
+     <name xml:lang="de">Fotofilm</name>
+     <name xml:lang="en_GB">Camera Film</name>
+     <name xml:lang="es">Película de cámara</name>
+     <name xml:lang="gl">Carrete de cámara</name>
+     <name xml:lang="hr">Filmska kamera</name>
+     <name xml:lang="mnw">တၞးကဝ်တက်ဗီု</name>
+     <name xml:lang="sv">Kamerafilm</name>
+     <name xml:lang="uk">Плівковий фотоапарат</name>
+     <filename>/usr/share/backgrounds/Camera_Film_by_Markus_Spiske.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Colored Pencils</name>
+     <name xml:lang="de">Buntstifte</name>
+     <name xml:lang="en_GB">Coloured Pencils</name>
+     <name xml:lang="es">Lápices de colores</name>
+     <name xml:lang="fr">Crayons de couleur</name>
+     <name xml:lang="gl">Lápis de cores</name>
+     <name xml:lang="hr">Bojice</name>
+     <name xml:lang="sv">Färgpennor</name>
+     <name xml:lang="uk">Кольорові олівці</name>
+     <filename>/usr/share/backgrounds/Colored_Pencils_by_Jess_Bailey.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Landscape Photography Of Mountains</name>
+     <name xml:lang="de">Landschaftsfotografie von Bergen</name>
+     <name xml:lang="en_GB">Landscape Photography of Mountains</name>
+     <name xml:lang="gl">Fotografía de paisaxe de montañas</name>
+     <name xml:lang="hr">Pejzažna fotografija planina</name>
+     <name xml:lang="sv">Landskapsfotografi av berg</name>
+     <name xml:lang="uk">Пейзажне фото гір</name>
+     <filename>/usr/share/backgrounds/Landscape_Photography_Of_Mountains_by_Simon_Berger.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Silver Back Gorilla</name>
+     <name xml:lang="de">Silberrückengorilla</name>
+     <name xml:lang="en_GB">Silver Back Gorilla</name>
+     <name xml:lang="fr">Gorille dos argenté</name>
+     <name xml:lang="gl">Gorila macho adulto</name>
+     <name xml:lang="hr">Srebrnkasta gorila</name>
+     <name xml:lang="sv">Silverryggad gorilla</name>
+     <name xml:lang="uk">Срібляста горила</name>
+     <filename>/usr/share/backgrounds/Silver_Back_Gorilla_by_Mike_Arney.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

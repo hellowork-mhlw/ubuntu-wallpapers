@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Ubuntu 14.04 Community Wallpapers</name>
+    <filename>/usr/share/backgrounds/contest/trusty.xml</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper>
+    <name>Backyard Mushrooms</name>
+    <name xml:lang="bs">Dvorišne gljive</name>
+    <name xml:lang="ca">Bolets de pati de darrera</name>
+    <name xml:lang="cs">Houby</name>
+    <name xml:lang="de">Gartenpilze</name>
+    <name xml:lang="en_AU">Backyard Mushrooms</name>
+    <name xml:lang="en_GB">Backyard Mushrooms</name>
+    <name xml:lang="es">Setas del patio trasero</name>
+    <name xml:lang="eu">Backyard Mushrooms</name>
+    <name xml:lang="fi">Takapihan sienet</name>
+    <name xml:lang="fr">Champignons d’arrière-cour</name>
+    <name xml:lang="gl">Cogomelos do Horto</name>
+    <name xml:lang="he">פטריות בחצר האחורית</name>
+    <name xml:lang="hr">Dvorišne gljive</name>
+    <name xml:lang="hu">Kerti gombák</name>
+    <name xml:lang="id">Jamur Halaman Belakang</name>
+    <name xml:lang="it">Funghi prataioli</name>
+    <name xml:lang="lv">Pagalma sēnes</name>
+    <name xml:lang="ms">Cendawan Belakang Rumah</name>
+    <name xml:lang="pl">Grzyby na podwórku</name>
+    <name xml:lang="pt">Cogumelos no Quintal</name>
+    <name xml:lang="ru">Грибы на заднем дворе</name>
+    <name xml:lang="sl">Vrtne gobe</name>
+    <name xml:lang="sv">Svampar i trädgården</name>
+    <name xml:lang="tr">Arka Bahçe Mantarları</name>
+    <name xml:lang="uk">Гриби на задвірках</name>
+    <name xml:lang="uz">Qo'ziqorinlar</name>
+    <filename>/usr/share/backgrounds/Backyard_Mushrooms_by_Kurt_Zitzelman.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Beach</name>
+    <name xml:lang="bs">žal</name>
+    <name xml:lang="cs">Pláž</name>
+    <name xml:lang="de">Strand</name>
+    <name xml:lang="en_AU">Beach</name>
+    <name xml:lang="en_GB">Beach</name>
+    <name xml:lang="es">Playa</name>
+    <name xml:lang="eu">Beach</name>
+    <name xml:lang="fi">Ranta</name>
+    <name xml:lang="fr">Plage</name>
+    <name xml:lang="gl">Praia</name>
+    <name xml:lang="he">חוף</name>
+    <name xml:lang="hr">Žal</name>
+    <name xml:lang="hu">Tengerpart</name>
+    <name xml:lang="id">Pantai</name>
+    <name xml:lang="it">Spiaggia</name>
+    <name xml:lang="lv">Pludmale</name>
+    <name xml:lang="ms">Pantai</name>
+    <name xml:lang="pl">Plaża</name>
+    <name xml:lang="pt">Praia</name>
+    <name xml:lang="ru">Пляж</name>
+    <name xml:lang="sv">Strand</name>
+    <name xml:lang="tr">Kumsal</name>
+    <name xml:lang="uk">Пляж</name>
+    <name xml:lang="uz">Sohil</name>
+    <filename>/usr/share/backgrounds/Beach_by_Renato_Giordanelli.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Berries</name>
+    <name xml:lang="cs">Bobule</name>
+    <name xml:lang="de">Beeren</name>
+    <name xml:lang="en_GB">Berries</name>
+    <name xml:lang="es">Bayas</name>
+    <name xml:lang="eu">Berries</name>
+    <name xml:lang="fa">تمشک‌ها</name>
+    <name xml:lang="fr">Fruits sauvages</name>
+    <name xml:lang="he">פירות יער</name>
+    <name xml:lang="hu">Bogyók</name>
+    <name xml:lang="id">Berri</name>
+    <name xml:lang="jbo">lu loi jbari</name>
+    <name xml:lang="lv">Ogas</name>
+    <name xml:lang="mnw">သတြဵုဗာရဳ</name>
+    <name xml:lang="ms">Beri</name>
+    <name xml:lang="oc">Los fruches de la passion</name>
+    <name xml:lang="pl">Owoce leśne</name>
+    <name xml:lang="pt">Bagas</name>
+    <name xml:lang="ru">Ягоды</name>
+    <name xml:lang="sl">Jagode</name>
+    <name xml:lang="tr">Meyveler</name>
+    <name xml:lang="uk">Ягоди шипшини</name>
+    <name xml:lang="zh_CN">浆果</name>
+    <filename>/usr/share/backgrounds/Berries_by_Tom_Kijas.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Foggy Forest</name>
+    <name xml:lang="bs">Maglovita šuma</name>
+    <name xml:lang="ca">Bosc boirós</name>
+    <name xml:lang="cs">Mlžný les</name>
+    <name xml:lang="de">nebliger Wald</name>
+    <name xml:lang="en_AU">Foggy Forest</name>
+    <name xml:lang="en_GB">Foggy Forest</name>
+    <name xml:lang="es">Bosque en la niebla</name>
+    <name xml:lang="eu">Foggy Forest</name>
+    <name xml:lang="fi">Sumuisa metsä</name>
+    <name xml:lang="fr">Forêt embrumée</name>
+    <name xml:lang="gl">Bosque con nevoeiro</name>
+    <name xml:lang="he">יער בערפל</name>
+    <name xml:lang="hr">Maglovita šuma</name>
+    <name xml:lang="hu">Ködös erdő</name>
+    <name xml:lang="id">Hutan Berkabut</name>
+    <name xml:lang="it">Foresta nebbiosa</name>
+    <name xml:lang="lv">Miglains mežs</name>
+    <name xml:lang="ms">Hutan Berkabus</name>
+    <name xml:lang="pl">Zamglony las</name>
+    <name xml:lang="pt">Floresta Enevoada</name>
+    <name xml:lang="ru">Туманный лес</name>
+    <name xml:lang="sl">Meglen gozd</name>
+    <name xml:lang="sv">Disig skog</name>
+    <name xml:lang="tr">Sisli Orman</name>
+    <name xml:lang="uk">Туманний ранок</name>
+    <name xml:lang="uz">Tumanli O'rmon</name>
+    <filename>/usr/share/backgrounds/Foggy_Forest_by_Jake_Stewart.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Ibanez Infinity</name>
+    <name xml:lang="bs">Ibanez beskonačnost</name>
+    <name xml:lang="ca">Infinit Ibanez</name>
+    <name xml:lang="cs">Ibanez Infinity</name>
+    <name xml:lang="de">Ibanez’ Unendlichkeit</name>
+    <name xml:lang="en_AU">Ibanez Infinity</name>
+    <name xml:lang="en_GB">Ibanez Infinity</name>
+    <name xml:lang="es">Ibanez infinito</name>
+    <name xml:lang="eu">Ibanez Infinity</name>
+    <name xml:lang="fi">Ibanez Infinity -kitara</name>
+    <name xml:lang="fr">Ibanez Infinity</name>
+    <name xml:lang="gl">Ibanez Infinity</name>
+    <name xml:lang="hr">Vrat gitare</name>
+    <name xml:lang="id">Ibanez Infinity</name>
+    <name xml:lang="lv">Ibanez bezgalība</name>
+    <name xml:lang="ms">Ibanez Tak Terhingga</name>
+    <name xml:lang="pl">Ibanez Infinity</name>
+    <name xml:lang="pt">Ibanez Infinity</name>
+    <name xml:lang="ru">Бесконечность Ibanez</name>
+    <name xml:lang="sv">Ibanez Infinity</name>
+    <name xml:lang="tr">Ibanez Sonsuzluğu</name>
+    <name xml:lang="uk">Нескінченність гітари Ібаньєс</name>
+    <filename>/usr/share/backgrounds/Ibanez_Infinity_by_Jaco_Kok.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Jelly Fish</name>
+    <name xml:lang="bs">Žele riba</name>
+    <name xml:lang="ca">Medusaa</name>
+    <name xml:lang="cs">Medúza</name>
+    <name xml:lang="de">Quallen</name>
+    <name xml:lang="en_AU">Jelly Fish</name>
+    <name xml:lang="en_GB">Jelly Fish</name>
+    <name xml:lang="es">Medusa</name>
+    <name xml:lang="eu">Jelly Fish</name>
+    <name xml:lang="fi">Meduusa</name>
+    <name xml:lang="fr">Méduses</name>
+    <name xml:lang="gl">Medusa</name>
+    <name xml:lang="he">מדוזה</name>
+    <name xml:lang="hr">Meduze</name>
+    <name xml:lang="hu">Medúza</name>
+    <name xml:lang="id">Ubur-ubur</name>
+    <name xml:lang="it">Medusa</name>
+    <name xml:lang="lv">Medūza</name>
+    <name xml:lang="ms">Obor-obor</name>
+    <name xml:lang="pl">Meduza</name>
+    <name xml:lang="pt">Alforreca</name>
+    <name xml:lang="ru">Медузы</name>
+    <name xml:lang="sv">Manet</name>
+    <name xml:lang="tr">Denizanası</name>
+    <name xml:lang="uk">Медуза</name>
+    <filename>/usr/share/backgrounds/Jelly_Fish_by_RaDu_GaLaN.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Mono Lake</name>
+    <name xml:lang="bs">Mono jezero</name>
+    <name xml:lang="ca">Llac Mono</name>
+    <name xml:lang="cs">Jezero Mono</name>
+    <name xml:lang="de">Mono Lake</name>
+    <name xml:lang="en_AU">Mono Lake</name>
+    <name xml:lang="en_GB">Mono Lake</name>
+    <name xml:lang="es">Lago Mono</name>
+    <name xml:lang="eu">Mono Lake</name>
+    <name xml:lang="fi">Mono-järvi</name>
+    <name xml:lang="fr">Lac Mono</name>
+    <name xml:lang="gl">Lago Mono</name>
+    <name xml:lang="hr">Mono jezero</name>
+    <name xml:lang="id">Danau Mono</name>
+    <name xml:lang="lv">Mono ezers</name>
+    <name xml:lang="ms">Tasik Mono</name>
+    <name xml:lang="pl">Jezioro Mono</name>
+    <name xml:lang="pt">Lago Mono</name>
+    <name xml:lang="ru">Озеро Моно</name>
+    <name xml:lang="sl">Jezero Mono</name>
+    <name xml:lang="sv">Monosjön</name>
+    <name xml:lang="tr">Mono Gölü</name>
+    <name xml:lang="uk">Озеро Моно</name>
+    <name xml:lang="uz">Yolg'iz Ko'l</name>
+    <filename>/usr/share/backgrounds/Mono_Lake_by_Angela_Henderson.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Partitura</name>
+    <name xml:lang="bs">Partitura</name>
+    <name xml:lang="ca">Partitura</name>
+    <name xml:lang="cs">Partitura</name>
+    <name xml:lang="de">Partitur</name>
+    <name xml:lang="en_AU">Partitura</name>
+    <name xml:lang="en_GB">Partitura</name>
+    <name xml:lang="es">Partitura</name>
+    <name xml:lang="eu">Partitura</name>
+    <name xml:lang="fi">Nuotit</name>
+    <name xml:lang="fr">Partitura</name>
+    <name xml:lang="gl">Partitura</name>
+    <name xml:lang="hr">Note</name>
+    <name xml:lang="hu">Partitúra</name>
+    <name xml:lang="id">Partitura</name>
+    <name xml:lang="it">Partitura</name>
+    <name xml:lang="lv">Partitūra</name>
+    <name xml:lang="ms">Partitura</name>
+    <name xml:lang="pl">Nuty</name>
+    <name xml:lang="pt">Partitura</name>
+    <name xml:lang="ru">Партитура</name>
+    <name xml:lang="sv">Partitur</name>
+    <name xml:lang="tr">Partitura</name>
+    <name xml:lang="uk">Партитура</name>
+    <filename>/usr/share/backgrounds/Partitura_by_Vincijun.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Reflections</name>
+    <name xml:lang="bs">Razmišljanja</name>
+    <name xml:lang="cs">Odrazy</name>
+    <name xml:lang="de">Reflexionen</name>
+    <name xml:lang="en_AU">Reflections</name>
+    <name xml:lang="en_GB">Reflections</name>
+    <name xml:lang="es">Reflejos</name>
+    <name xml:lang="eu">Reflections</name>
+    <name xml:lang="fi">Heijastukset</name>
+    <name xml:lang="fr">Réflexions</name>
+    <name xml:lang="gl">Reflexos</name>
+    <name xml:lang="he">השתקפויות</name>
+    <name xml:lang="hr">Odrazi</name>
+    <name xml:lang="hu">Tükröződések</name>
+    <name xml:lang="id">Refleksi</name>
+    <name xml:lang="it">Riflessi</name>
+    <name xml:lang="lv">Atspīdumi</name>
+    <name xml:lang="ms">Pantulan</name>
+    <name xml:lang="pl">Odbicia</name>
+    <name xml:lang="pt">Reflexos</name>
+    <name xml:lang="ru">Отражения</name>
+    <name xml:lang="sv">Reflektioner</name>
+    <name xml:lang="tr">Yansımalar</name>
+    <name xml:lang="uk">Віддзеркалення</name>
+    <name xml:lang="uz">Akslar</name>
+    <filename>/usr/share/backgrounds/Reflections_by_Trenton_Fox.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Sea Fury</name>
+    <name xml:lang="bs">Morski bijes</name>
+    <name xml:lang="ca">Fúria de mar</name>
+    <name xml:lang="cs">Sea Fury</name>
+    <name xml:lang="de">Sea Fury</name>
+    <name xml:lang="en_AU">Sea Fury</name>
+    <name xml:lang="en_GB">Sea Fury</name>
+    <name xml:lang="es">Furia marina</name>
+    <name xml:lang="eu">Sea Fury</name>
+    <name xml:lang="fi">Sea Fury -lentokone</name>
+    <name xml:lang="fr">Chasseur des nues</name>
+    <name xml:lang="gl">Furia Mariña</name>
+    <name xml:lang="hr">Sea Fury zrakoplov</name>
+    <name xml:lang="id">Laut Murka</name>
+    <name xml:lang="it">Furia del mare</name>
+    <name xml:lang="lv">Jūras dusmas</name>
+    <name xml:lang="ms">Kemarahan Laut</name>
+    <name xml:lang="pl">Furia morza</name>
+    <name xml:lang="pt">Fúria do Mar</name>
+    <name xml:lang="ru">Истребитель "Морская ярость"</name>
+    <name xml:lang="sl">Morski bes</name>
+    <name xml:lang="sv">Stormigt hav</name>
+    <name xml:lang="tr">Sea Fury</name>
+    <name xml:lang="uk">Морська фурія</name>
+    <filename>/usr/share/backgrounds/Sea_Fury_by_Ian_Worrall.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Water web</name>
+    <name xml:lang="bs">Mreža vode</name>
+    <name xml:lang="ca">Xarxa d'aigua</name>
+    <name xml:lang="cs">Vodní web</name>
+    <name xml:lang="de">Wassernetz</name>
+    <name xml:lang="en_AU">Water web</name>
+    <name xml:lang="en_GB">Water web</name>
+    <name xml:lang="es">Telaraña de agua</name>
+    <name xml:lang="eu">Water web</name>
+    <name xml:lang="fi">Kostea verkko</name>
+    <name xml:lang="fr">Toile perlée</name>
+    <name xml:lang="gl">Rede de Auga</name>
+    <name xml:lang="hr">Kapljice na paukovj mreži</name>
+    <name xml:lang="id">Jejaring air</name>
+    <name xml:lang="it">Acqua e ragnatela</name>
+    <name xml:lang="lv">Ūdens tīkls</name>
+    <name xml:lang="ms">Sesawang air</name>
+    <name xml:lang="pl">Sieć wody</name>
+    <name xml:lang="pt">Teia de Água</name>
+    <name xml:lang="ru">Капельки на паутине</name>
+    <name xml:lang="sv">Vattenväv</name>
+    <name xml:lang="tr">Su ağı</name>
+    <name xml:lang="uk">Водяна сітка</name>
+    <name xml:lang="uz">Suvdagi To'r</name>
+    <filename>/usr/share/backgrounds/Water_web_by_Tom_Kijas.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Forever</name>
+    <name xml:lang="bs">Bez kraja</name>
+    <name xml:lang="cs">Navždy</name>
+    <name xml:lang="de">Für immer</name>
+    <name xml:lang="en_AU">Forever</name>
+    <name xml:lang="en_GB">Forever</name>
+    <name xml:lang="es">Para siempre</name>
+    <name xml:lang="eu">Forever</name>
+    <name xml:lang="fi">Ikuisesti</name>
+    <name xml:lang="fr">Pour toujours</name>
+    <name xml:lang="gl">Para sempre</name>
+    <name xml:lang="he">לנצח</name>
+    <name xml:lang="hr">Zvjezdani pogled 2</name>
+    <name xml:lang="hu">Mindörökké</name>
+    <name xml:lang="id">Selamanya</name>
+    <name xml:lang="it">Per sempre</name>
+    <name xml:lang="lv">Bezgalīgi</name>
+    <name xml:lang="ms">Selamanya</name>
+    <name xml:lang="pl">Wieczność</name>
+    <name xml:lang="pt">Para Sempre</name>
+    <name xml:lang="ru">Вечность</name>
+    <name xml:lang="sv">För evigt</name>
+    <name xml:lang="tr">Sonsuza dek</name>
+    <name xml:lang="uk">Назавжди</name>
+    <filename>/usr/share/backgrounds/Forever_by_Shady_S.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+ </wallpapers>

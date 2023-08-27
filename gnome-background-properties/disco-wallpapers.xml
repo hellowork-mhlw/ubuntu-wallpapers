@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 19.04 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/disco.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <name>Capucijnengang</name>
+     <name xml:lang="de">Capucijnengang</name>
+     <name xml:lang="en_GB">Capucijnengang</name>
+     <name xml:lang="es">Capucijnengang</name>
+     <name xml:lang="fr">Capucijnengang</name>
+     <name xml:lang="gl">Capucijnengang</name>
+     <name xml:lang="hr">Capucijnengang</name>
+     <name xml:lang="sv">Capucijnengang</name>
+     <name xml:lang="uk">Капусейненганг</name>
+     <filename>/usr/share/backgrounds/Capucijnengang_by_Artem_Kavalerov.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Cramond Island</name>
+     <name xml:lang="de">Cramond Insel</name>
+     <name xml:lang="en_GB">Cramond Island</name>
+     <name xml:lang="es">Isla de Cramond</name>
+     <name xml:lang="gl">Illa de Cramond</name>
+     <name xml:lang="hr">Cramond otok</name>
+     <name xml:lang="ru">Остров Крамонд</name>
+     <name xml:lang="sv">Cramond Island</name>
+     <name xml:lang="uk">Острів Крамонд</name>
+     <filename>/usr/share/backgrounds/Cramond_Island_by_Keanu_Kerr.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Flower Gate Bridge</name>
+     <name xml:lang="de">Blumentor Brücke</name>
+     <name xml:lang="en_GB">Flower Gate Bridge</name>
+     <name xml:lang="es">Flor puente Gate</name>
+     <name xml:lang="fa">پل دروازهٔ گل</name>
+     <name xml:lang="gl">Ponte das Flores</name>
+     <name xml:lang="hr">Cvijet na vratima mosta</name>
+     <name xml:lang="sv">Flower Gate-bron</name>
+     <name xml:lang="uk">Міст Квіткові ворота</name>
+     <filename>/usr/share/backgrounds/Flower_Gate_Bridge_by_Michele_Agostini.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>On the harbour</name>
+     <name xml:lang="cs">V přístavu</name>
+     <name xml:lang="de">Am Hafen</name>
+     <name xml:lang="en_GB">On the harbour</name>
+     <name xml:lang="es">En el puerto</name>
+     <name xml:lang="fr">Sur le port</name>
+     <name xml:lang="gl">No porto</name>
+     <name xml:lang="he">על המזח</name>
+     <name xml:lang="hr">Na luci</name>
+     <name xml:lang="sv">På hamnen</name>
+     <name xml:lang="uk">На гавані</name>
+     <filename>/usr/share/backgrounds/On_the_harbour_by_Víctor_Fernández_Rico.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Staniel Cay</name>
+     <name xml:lang="de">Staniel Cay</name>
+     <name xml:lang="en_GB">Staniel Cay</name>
+     <name xml:lang="es">Isla Staniel</name>
+     <name xml:lang="gl">Staniel Cay</name>
+     <name xml:lang="hr">Staniel Cay</name>
+     <name xml:lang="sv">Staniel Cay</name>
+     <name xml:lang="uk">Станіель Кей</name>
+     <filename>/usr/share/backgrounds/Staniel_Cay_by_Joseph_Bylund.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Sunset of Peloponnesus</name>
+     <name xml:lang="de">Sonnenuntergang über Peloponnesus</name>
+     <name xml:lang="en_GB">Sunset of Peloponnesus</name>
+     <name xml:lang="es">Ocaso en Peloponeso</name>
+     <name xml:lang="fr">Coucher de soleil du Péloponnèse</name>
+     <name xml:lang="gl">Solpor no Peloponeso</name>
+     <name xml:lang="he">זריחה בפלופונסוס</name>
+     <name xml:lang="hr">Sumrak na Poloponezu</name>
+     <name xml:lang="sv">Solnedgång vid Peloponnesos</name>
+     <name xml:lang="uk">Захід Пелопоннеса</name>
+     <filename>/usr/share/backgrounds/Sunset_of_Peloponnesus_by_Simos_Xenitellis.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Tennis ball</name>
+     <name xml:lang="cs">Tenisový míček</name>
+     <name xml:lang="de">Tennisball</name>
+     <name xml:lang="en_GB">Tennis ball</name>
+     <name xml:lang="es">Pelota de tenis</name>
+     <name xml:lang="fa">توپ تنیس</name>
+     <name xml:lang="fr">Balle de tennis</name>
+     <name xml:lang="gl">Bóla de ténis</name>
+     <name xml:lang="he">כדור טניס</name>
+     <name xml:lang="hr">Teniska loptica</name>
+     <name xml:lang="ru">Теннисный мяч</name>
+     <name xml:lang="sv">Tennisboll</name>
+     <name xml:lang="uk">Тенісний м'яч</name>
+     <filename>/usr/share/backgrounds/Tennis_ball_by_Artem_Kavalerov.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Water of Leith</name>
+     <name xml:lang="de">Water of Leith</name>
+     <name xml:lang="en_GB">Water of Leith</name>
+     <name xml:lang="es">Water of Leith</name>
+     <name xml:lang="gl">Water of Leith</name>
+     <name xml:lang="hr">Voda u Leitai</name>
+     <name xml:lang="sv">Vatten vid Leith</name>
+     <name xml:lang="uk">Вода Лейта</name>
+     <filename>/usr/share/backgrounds/Water_of_Leith_by_Keanu_Kerr.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>80s Disco Dingo Simulation</name>
+     <name xml:lang="cs">Simulace disko koule z 80. let</name>
+     <name xml:lang="de">80er Disco Dingo Simulation</name>
+     <name xml:lang="en_GB">80s Disco Dingo Simulation</name>
+     <name xml:lang="es">Simulación ochentera del dingo de la disco</name>
+     <name xml:lang="gl">Simulación de Disco Dingo dos 89</name>
+     <name xml:lang="hr">Disco Dingo simulacija iz 80-ih</name>
+     <name xml:lang="sv">80-tals disco-dingo-simulering</name>
+     <name xml:lang="uk">Імітація Disco Dingo 80-х</name>
+     <filename>/usr/share/backgrounds/80s_Disco_Dingo_Simulation_by_Abubakar_NK.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Disco Dingo Alt Default</name>
+     <name xml:lang="de">Disco Dingo Alt Standard</name>
+     <name xml:lang="en_GB">Disco Dingo Alt Default</name>
+     <name xml:lang="es">Fondo alternativo de Disco Dingo</name>
+     <name xml:lang="gl">Disco Dingo Alt Predeterminado</name>
+     <name xml:lang="hr">Disco Dingo Alt zadano</name>
+     <name xml:lang="sv">Disco-dingo alt förval</name>
+     <name xml:lang="uk">Альтернативна типова для Disco Dingo</name>
+     <filename>/usr/share/backgrounds/Disco_Dingo_Alt_Default_by_Abubakar_NK.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

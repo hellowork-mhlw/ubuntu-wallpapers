@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 17.10 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/artful.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <name>Bee on lavender</name>
+     <name xml:lang="br">Gwenan war lavañd</name>
+     <name xml:lang="bs">Pčela na lavandi</name>
+     <name xml:lang="ca">Abella a l'espígol</name>
+     <name xml:lang="de">Biene auf Lavendel</name>
+     <name xml:lang="en_GB">Bee on lavender</name>
+     <name xml:lang="es">Abeja en lavanda</name>
+     <name xml:lang="fi">Mehiläinen laventelin parissa</name>
+     <name xml:lang="fr">Abeille sur lavande</name>
+     <name xml:lang="gl">Abella na lavanda</name>
+     <name xml:lang="he">דבורה על לבנדר</name>
+     <name xml:lang="hr">Pčela na lavandi</name>
+     <name xml:lang="it">Ape e lavanda</name>
+     <name xml:lang="ko">라벤더 위의 벌</name>
+     <name xml:lang="ru">Пчела на лаванде</name>
+     <name xml:lang="sv">Bi på lavendel</name>
+     <name xml:lang="tr">Lavanta üzerinde arı</name>
+     <name xml:lang="uk">Бджола на лаванді</name>
+     <filename>/usr/share/backgrounds/Bee_on_lavender_by_Martin.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Bloom</name>
+     <name xml:lang="br">Bleuñviñ</name>
+     <name xml:lang="bs">Cvijetanje</name>
+     <name xml:lang="ca">Floració</name>
+     <name xml:lang="de">Blüte</name>
+     <name xml:lang="en_GB">Bloom</name>
+     <name xml:lang="es">Florecer</name>
+     <name xml:lang="fa">شکوفه</name>
+     <name xml:lang="fi">Kukoistus</name>
+     <name xml:lang="fr">Éblouissement</name>
+     <name xml:lang="gl">Floración</name>
+     <name xml:lang="he">פריחה</name>
+     <name xml:lang="hr">Cvijet</name>
+     <name xml:lang="ru">Цветение</name>
+     <name xml:lang="sv">Blomster</name>
+     <name xml:lang="tr">Çiçeklenme</name>
+     <name xml:lang="uk">Цвітіння</name>
+     <filename>/usr/share/backgrounds/Bloom_by_Victor_Madru.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Grand Canyon North Rim</name>
+     <name xml:lang="bs">Sjeverna Ivica Velikog Kanjona</name>
+     <name xml:lang="ca">Gran Canyó North Rim</name>
+     <name xml:lang="de">Nördlicher Rand des Grand Canyon</name>
+     <name xml:lang="en_GB">Grand Canyon North Rim</name>
+     <name xml:lang="es">Borde norte del Gran Cañón</name>
+     <name xml:lang="fi">Grand Canyonin pohjoisreuna</name>
+     <name xml:lang="gl">Beira Norte do Gran Canón</name>
+     <name xml:lang="he">העיטור החיצוני הצפוני של הגרנד קניון</name>
+     <name xml:lang="hr">Sjeverni rub Velikog kanjona</name>
+     <name xml:lang="ru">Северный край Большого каньона</name>
+     <name xml:lang="sv">Grand Canyon North Rim</name>
+     <name xml:lang="tr">Büyük Kanyon Kuzey Rim</name>
+     <name xml:lang="uk">Гранд-Каньйон Північний Рим</name>
+     <filename>/usr/share/backgrounds/Grand_Canyon_North_Rim_by_Rihards_Vilks.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Green Island</name>
+     <name xml:lang="br">Enez c'hlas</name>
+     <name xml:lang="bs">Zeleni Otok</name>
+     <name xml:lang="ca">Green Island</name>
+     <name xml:lang="cs">Zelený ostrov</name>
+     <name xml:lang="de">Grüne Insel</name>
+     <name xml:lang="en_GB">Green Island</name>
+     <name xml:lang="es">Isla verde</name>
+     <name xml:lang="fa">جزیرهٔ سبز</name>
+     <name xml:lang="fi">Vihreä saari</name>
+     <name xml:lang="fr">Île verte</name>
+     <name xml:lang="gl">Green Island</name>
+     <name xml:lang="he">אי ירוק</name>
+     <name xml:lang="hr">Zeleni otok</name>
+     <name xml:lang="it">Isola verde</name>
+     <name xml:lang="ko">그린 아일랜드</name>
+     <name xml:lang="mnw">တ္ကအ်သာ်တ္ၚေက်</name>
+     <name xml:lang="ru">Зелёный остров</name>
+     <name xml:lang="sv">Grön ö</name>
+     <name xml:lang="tr">Yeşil Ada</name>
+     <name xml:lang="uk">Зелений острів</name>
+     <filename>/usr/share/backgrounds/Green_Island_by_Radu_Galan.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Headstock</name>
+     <name xml:lang="bs">Ležaj</name>
+     <name xml:lang="ca">Capçal</name>
+     <name xml:lang="de">Spindelstock</name>
+     <name xml:lang="en_GB">Headstock</name>
+     <name xml:lang="es">Cabezal</name>
+     <name xml:lang="gl">Headstock</name>
+     <name xml:lang="he">ראש של גיטרה</name>
+     <name xml:lang="hr">Glava gitare</name>
+     <name xml:lang="ru">Колки</name>
+     <name xml:lang="sv">Gitarrhuvud</name>
+     <name xml:lang="tr">Mesnetli</name>
+     <name xml:lang="uk">Головка грифа</name>
+     <filename>/usr/share/backgrounds/Headstock_by_Bernhard_Hanakam.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Lighthouse at sunrise</name>
+     <name xml:lang="br">Tour-tan da sav-heol</name>
+     <name xml:lang="bs">Svjetionik na izlasku Sunca</name>
+     <name xml:lang="ca">Far a la sortida del sol</name>
+     <name xml:lang="cs">Maják za úsvitu</name>
+     <name xml:lang="de">Leuchtturm im Sonnenaufgang</name>
+     <name xml:lang="en_GB">Lighthouse at sunrise</name>
+     <name xml:lang="es">Faro al amanecer</name>
+     <name xml:lang="fi">Majakka auringonnousun aikaan</name>
+     <name xml:lang="fr">Phare et levé de soleil</name>
+     <name xml:lang="gl">Luz ao mencer</name>
+     <name xml:lang="he">מגדלור בזריחה</name>
+     <name xml:lang="hr">Svjetionik u zoru</name>
+     <name xml:lang="it">Faro all'alba</name>
+     <name xml:lang="ko">일출의 등대</name>
+     <name xml:lang="ru">Маяк на восходе солнца</name>
+     <name xml:lang="sv">Fyr vid soluppgång</name>
+     <name xml:lang="tr">Güneş doğarken deniz feneri</name>
+     <name xml:lang="uk">Маяк на сході сонця</name>
+     <filename>/usr/share/backgrounds/Lighthouse_at_sunrise_by_Frenchie_Smalls.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Lily of the Valley</name>
+     <name xml:lang="bs">Ljubičica sa Doline</name>
+     <name xml:lang="ca">Lliri de les valls</name>
+     <name xml:lang="de">Maiglöckchen</name>
+     <name xml:lang="en_GB">Lily of the Valley</name>
+     <name xml:lang="es">Lirio de los valles</name>
+     <name xml:lang="fi">Lilja laaksossa</name>
+     <name xml:lang="gl">Lírio do Val</name>
+     <name xml:lang="he">שושן העמק</name>
+     <name xml:lang="hr">Đurđica sa doline</name>
+     <name xml:lang="ko">은방울꽃</name>
+     <name xml:lang="ru">Ландыши</name>
+     <name xml:lang="sv">Liljekonvalj</name>
+     <name xml:lang="tr">Vadinin Zambağı</name>
+     <name xml:lang="uk">Конвалія</name>
+     <filename>/usr/share/backgrounds/Lily_of_the_Valley_by_Robert_Slotte.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>London Eye</name>
+     <name xml:lang="br">London Eye</name>
+     <name xml:lang="bs">Londonsko Oko</name>
+     <name xml:lang="ca">L'ull de Londres</name>
+     <name xml:lang="cs">Londýnské Oko</name>
+     <name xml:lang="de">London Eye</name>
+     <name xml:lang="en_GB">London Eye</name>
+     <name xml:lang="es">London Eye</name>
+     <name xml:lang="fa">چشم لندت</name>
+     <name xml:lang="fi">London Eye</name>
+     <name xml:lang="gl">Nora do Milenio</name>
+     <name xml:lang="he">העין של לונדון</name>
+     <name xml:lang="hr">Londonsko Oko</name>
+     <name xml:lang="it">London Eye</name>
+     <name xml:lang="ko">런던 아이</name>
+     <name xml:lang="ru">Лондонский глаз</name>
+     <name xml:lang="sv">London Eye</name>
+     <name xml:lang="uk">London Eye</name>
+     <filename>/usr/share/backgrounds/London_Eye_by_Paul_Daniell.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>More Kamikochi</name>
+     <name xml:lang="bs">More Kamikochi</name>
+     <name xml:lang="ca">Més Kamikochi</name>
+     <name xml:lang="de">Mehr Kamikochi</name>
+     <name xml:lang="en_GB">More Kamikochi</name>
+     <name xml:lang="es">Más Kamikochi</name>
+     <name xml:lang="fi">Näkymä Kamikochiin</name>
+     <name xml:lang="fr">Kamikōchi</name>
+     <name xml:lang="gl">More Kamikochi</name>
+     <name xml:lang="he">עוד משמורת קמיקוצ׳י</name>
+     <name xml:lang="hr">More Kamikochi</name>
+     <name xml:lang="ru">Горная долина Камикочи</name>
+     <name xml:lang="sv">Mer Kamikochi</name>
+     <name xml:lang="uk">Більше Камікочі</name>
+     <filename>/usr/share/backgrounds/More_Kamikochi_by_mendhak.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Planking is going against the grain</name>
+     <name xml:lang="bs">Daske idu uz žito</name>
+     <name xml:lang="ca">El tauler va a contracor</name>
+     <name xml:lang="de">Planken gehen gegen den Strich</name>
+     <name xml:lang="en_GB">Planking is going against the grain</name>
+     <name xml:lang="es">Una tabla yendo a contracorriente</name>
+     <name xml:lang="gl">Entaboado apodrecido</name>
+     <name xml:lang="he">קרשים זה לא עניין של מה בכך</name>
+     <name xml:lang="hr">Stare daske</name>
+     <name xml:lang="sv">Plankning går mot strömmen</name>
+     <name xml:lang="uk">Дощечка поперек помосту</name>
+     <filename>/usr/share/backgrounds/Planking_is_going_against_the_grain_by_mendhak.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Red delight</name>
+     <name xml:lang="bs">Crveno zadovoljstvo</name>
+     <name xml:lang="ca">Delícia vermella So</name>
+     <name xml:lang="de">Rote Freude</name>
+     <name xml:lang="en_GB">Red delight</name>
+     <name xml:lang="es">Delicia roja</name>
+     <name xml:lang="fi">Punainen mielihyvä</name>
+     <name xml:lang="fr">Délice rouge</name>
+     <name xml:lang="gl">Delicia vermella</name>
+     <name xml:lang="he">תענוג אדום</name>
+     <name xml:lang="hr">Crveni užitak</name>
+     <name xml:lang="sv">Röd marmeladkonfekt</name>
+     <name xml:lang="uk">Червоне захоплення</name>
+     <filename>/usr/share/backgrounds/Red_delight_by_Rishikesh_Gawade.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Sunrise on the beach</name>
+     <name xml:lang="bs">Izlazak Sunca na plaži</name>
+     <name xml:lang="ca">Alba a la platja</name>
+     <name xml:lang="cs">Svítání na pláži</name>
+     <name xml:lang="de">Sonnenaufgang am Strand</name>
+     <name xml:lang="en_GB">Sunrise on the beach</name>
+     <name xml:lang="es">Amanecer en la playa</name>
+     <name xml:lang="fa">طلوع روی ساحل</name>
+     <name xml:lang="fi">Auringonnousu rannalla</name>
+     <name xml:lang="fr">Lever du soleil sur la plage</name>
+     <name xml:lang="gl">Mencer na praia</name>
+     <name xml:lang="he">זריחה על החוף</name>
+     <name xml:lang="hr">Zora na plaži</name>
+     <name xml:lang="mnw">လျးတ္ၚဲတိုန်ပ္ဍဲပြၚ်ၜဳ</name>
+     <name xml:lang="ru">Восход на пляже</name>
+     <name xml:lang="sv">Soluppgång på strand</name>
+     <name xml:lang="uk">Світанок на пляжі</name>
+     <filename>/usr/share/backgrounds/Sunrise_on_the_beach_by_Luca_Ciavatta.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Voss</name>
+     <name xml:lang="bs">Voss</name>
+     <name xml:lang="ca">Voss</name>
+     <name xml:lang="de">Voss</name>
+     <name xml:lang="en_GB">Voss</name>
+     <name xml:lang="es">Voss</name>
+     <name xml:lang="fi">Voss</name>
+     <name xml:lang="gl">Voss</name>
+     <name xml:lang="he">ווֹס</name>
+     <name xml:lang="hr">Fjord</name>
+     <name xml:lang="sv">Voss</name>
+     <name xml:lang="uk">Восс</name>
+     <filename>/usr/share/backgrounds/Voss_by_fortuneblues.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

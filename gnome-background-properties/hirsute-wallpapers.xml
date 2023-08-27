@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 21.04 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/hirsute.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <name>Hippopotamus Swimming Photo</name>
+     <name xml:lang="de">Foto eines schwimmenden Flusspferds</name>
+     <name xml:lang="en_GB">Hippopotamus Swimming Photo</name>
+     <name xml:lang="gl">Foto de hipopótamo nadando</name>
+     <name xml:lang="hr">Fotografija plivanja nilskog konja</name>
+     <name xml:lang="sv">Foto av simmande flodhäst</name>
+     <name xml:lang="uk">Плавучий Бегемот</name>
+     <filename>/usr/share/backgrounds/Hippopotamus_Swimming_Photo_by_Francesco_Ungaro.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Macro Shot of Black Animal</name>
+     <name xml:lang="de">Großaufnahme eines schwarzen Tieres</name>
+     <name xml:lang="en_GB">Macro Shot of Black Animal</name>
+     <name xml:lang="es">Macrofotografía de un animal negro</name>
+     <name xml:lang="gl">Foto de animal negro con macro</name>
+     <name xml:lang="hr">Makro snimak crne životinje</name>
+     <name xml:lang="sv">Makrobild av svart djur</name>
+     <name xml:lang="uk">Макрозйомка тварин темного окрасу</name>
+     <filename>/usr/share/backgrounds/Macro_Shot_of_Black_Animal_by_Gene_Taylor.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

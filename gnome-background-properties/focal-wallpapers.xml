@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 20.04 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/focal.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <name>Stone Mountain</name>
+     <name xml:lang="de">Stone Mountain</name>
+     <name xml:lang="en_GB">Stone Mountain</name>
+     <name xml:lang="es">Stone Mountain</name>
+     <name xml:lang="gl">Stone Mountain</name>
+     <name xml:lang="hr">Šumski proplanak</name>
+     <name xml:lang="sv">Stenberg</name>
+     <name xml:lang="uk">Кам’яна гора</name>
+     <filename>/usr/share/backgrounds/brad-huchteman-stone-mountain.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Something Yellow</name>
+     <name xml:lang="de">Etwas Gelbes</name>
+     <name xml:lang="en_GB">Something Yellow</name>
+     <name xml:lang="es">Algo amarillo</name>
+     <name xml:lang="fr">Quelque chose de jaune</name>
+     <name xml:lang="gl">Algo Amarelo</name>
+     <name xml:lang="he">משהו צהוב</name>
+     <name xml:lang="hr">Nešto žuto</name>
+     <name xml:lang="sv">Nånting gult</name>
+     <name xml:lang="uk">Щось Жовте</name>
+     <filename>/usr/share/backgrounds/joshua-coleman-something-yellow.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>2nd Avenue</name>
+     <name xml:lang="de">Zweite Allee</name>
+     <name xml:lang="en_GB">2nd Avenue</name>
+     <name xml:lang="es">Segunda Avenida</name>
+     <name xml:lang="fr">2e avenue</name>
+     <name xml:lang="gl">2nd Avenue</name>
+     <name xml:lang="he">השדרה השנייה</name>
+     <name xml:lang="hr">2. avenija</name>
+     <name xml:lang="sv">2:a Avenyn</name>
+     <name xml:lang="uk">2-й проспект</name>
+     <filename>/usr/share/backgrounds/matt-mcnulty-nyc-2nd-ave.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Skykomish River</name>
+     <name xml:lang="de">Skykomish Fluss</name>
+     <name xml:lang="en_GB">Skykomish River</name>
+     <name xml:lang="es">El río Skykomish</name>
+     <name xml:lang="gl">Río Skykomish</name>
+     <name xml:lang="hr">Skykomish rijeka</name>
+     <name xml:lang="sv">Skykomish-floden</name>
+     <name xml:lang="uk">Річка Скайкоміш</name>
+     <filename>/usr/share/backgrounds/ryan-stone-skykomish-river.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Hardy Heron (Remaster)</name>
+     <name xml:lang="de">Hardy Heron (Remaster)</name>
+     <name xml:lang="en_GB">Hardy Heron (Remaster)</name>
+     <name xml:lang="es">Garza vigorosa (remasterizado)</name>
+     <name xml:lang="fr">Hardy Heron</name>
+     <name xml:lang="gl">Hardy Heron (Remasterizado)</name>
+     <name xml:lang="hr">Hardy Heron (Remasteriran)</name>
+     <name xml:lang="sv">Hardy Heron (remaster)</name>
+     <name xml:lang="uk">Hardy Heron (Remaster)</name>
+     <filename>/usr/share/backgrounds/hardy_wallpaper_uhd.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

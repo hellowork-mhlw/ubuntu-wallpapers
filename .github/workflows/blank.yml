@@ -32,17 +32,11 @@ jobs:
       - name: Install
         run: sudo apt-get install -y ubuntu-wallpapers-* edgy-wallpapers feisty-wallpapers gutsy-wallpapers
 
-      - name: Check
-        run: ls /usr/share/backgrounds/
+      - name: Copy backgrounds
+        run: cp -r /usr/share/backgrounds .
 
-      - name: Count
-        run: ls /usr/share/backgrounds/ | wc
-
-      - name: Check metadata
-        run: ls /usr/share/gnome-background-properties/
-
-      - name: Count
-        run: ls /usr/share/gnome-background-properties/ | wc
+      - name: Copy gnome-background-properties
+        run: cp -r /usr/share/gnome-background-properties .
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
@@ -53,3 +47,5 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
